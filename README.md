@@ -200,3 +200,20 @@ This study helps identify:
 ---
 
 ## Repository Structure
+docs/ # study docs, design notes, results writeups
+scripts/ # processing + scoring + plotting scripts
+data/
+raw/ # NOT tracked (may contain PII)
+humans/
+humans_raw.csv
+ai_runs/
+<platform>/
+*_pre.json
+*_post.json
+processed/ # anonymized / analysis-ready
+humans_scored.csv
+ai_clean.csv
+updated_scored_combined_benchmark16.csv
+updated_pilot_summary_benchmark16.csv
+outputs/ # generated plots
+
