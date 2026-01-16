@@ -1,0 +1,17 @@
+run_id,source,platform,condition,pre_Q1_estimate,pre_S1,pre_S2,pre_S3,pre_S4,pre_P1,pre_P2,pre_P3,pre_P4,post_S1,post_S2,post_S3,post_S4,post_P1,post_P2,post_P3,post_P4
+R_7VPdGa1KtDL2fMA,human,human,hybrid,45,3,4,6.0,7,5,4,5,3,6.0,6.0,6.0,7.0,6.0,6.0,6.0,1.0
+R_6ZTyTfoyytFAM5j,human,human,narrative_story,35,4,4,5.0,7,3,5,5,2,5.0,6.0,7.0,7.0,5.0,5.0,5.0,1.0
+R_6PxW48Sq3EkD3jz,human,human,control,55,2,5,5.0,5,4,4,5,2,3.0,3.0,5.0,5.0,4.0,5.0,5.0,2.0
+R_1lcwQE7HpSMswTA,human,human,structural_data,45,4,4,6.0,4,6,6,6,2,,,,,,,,
+R_1smZuKgfzuc8p8Z,human,human,ai_explanation,40,4,4,6.0,5,6,6,7,1,5.0,4.0,6.0,5.0,7.0,7.0,7.0,1.0
+R_6DRIt6x0U49rozt,human,human,control,40,3,4,5.0,7,6,6,5,2,3.0,3.0,5.0,7.0,6.0,6.0,6.0,2.0
+R_7rWFHthAWFCb6xj,human,human,hybrid,50,6,5,,5,7,7,7,1,6.0,7.0,7.0,2.0,7.0,7.0,7.0,1.0
+R_1THSf9edjxFz5ti,human,human,narrative_story,30,5,4,5.0,7,6,5,5,3,5.0,5.0,5.0,7.0,6.0,6.0,6.0,1.0
+R_377jz2Kg5NfIxsH,human,human,control,25,5,4,3.0,6,4,4,5,5,5.0,5.0,4.0,6.0,4.0,4.0,4.0,5.0
+R_1I9Ikhceb2VLBL3,human,human,structural_data,50,4,5,3.0,6,4,3,4,3,6.0,6.0,6.0,3.0,7.0,6.0,6.0,1.0
+R_1w0155IxHUpEwZv,human,human,hybrid,45,3,4,5.0,5,4,4,5,4,6.0,6.0,6.0,3.0,6.0,6.0,6.0,1.0
+R_7XZNVJp21pxwX61,human,human,ai_explanation,50,2,3,4.0,7,4,4,4,3,6.0,6.0,6.0,4.0,6.0,6.0,6.0,2.0
+R_3QhG389rplBdQYN,human,human,narrative_story,35,3,5,5.0,7,4,4,4,2,6.0,6.0,6.0,2.0,5.0,5.0,5.0,1.0
+R_5PM1upegfmjbkKl,human,human,hybrid,30,4,4,4.0,7,5,5,5,3,6.0,6.0,7.0,3.0,6.0,6.0,6.0,1.0
+R_6fQ3ebIBUeJ6auO,human,human,ai_explanation,50,3,4,3.0,7,5,5,5,3,5.0,6.0,6.0,3.0,6.0,6.0,6.0,1.0
+R_61nwjcQnM0NNJtH,human,human,structural_data,40,5,5,6.0,3,4,4,4,2,5.0,6.0,6.0,2.0,6.0,6.0,6.0,1.0

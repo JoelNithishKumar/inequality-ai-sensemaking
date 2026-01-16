@@ -1,0 +1,13 @@
+source,condition,n,mean_pre_error,mean_post_error,mean_accuracy_improvement,mean_structural_shift,mean_policy_shift,platform,mean_post_M1_framing,mean_post_M2_stats
+human,ai_explanation,4,24.0,19.5,4.5,,,,,
+human,control,3,24.0,22.333333333333332,1.6666666666666667,,,,,
+human,hybrid,4,26.5,21.5,5.0,,,,,
+human,nan,0,,,,,,,,
+human,narrative_story,3,17.333333333333332,14.0,3.3333333333333335,,,,,
+human,structural_data,4,30.25,19.0,11.25,,,,,
+human,"{""importid"":""condition""}",0,,,,,,,,
+ai,data,1,0.0,0.0,0.0,0.0,0.0,chatgpt_structural,7.0,7.0
+ai,explanation,1,6.0,6.0,0.0,1.0,0.75,claude_ai,6.0,1.0
+ai,story,1,1.0,1.0,0.0,1.0,1.0,gemini_narrative,7.0,1.0
+ai,control,1,1.0,4.0,-3.0,-1.0,-1.0,meta_ai,1.0,1.0
+ai,hybrid,1,1.0,0.0,1.0,1.0,0.75,perplexity,7.0,7.0
